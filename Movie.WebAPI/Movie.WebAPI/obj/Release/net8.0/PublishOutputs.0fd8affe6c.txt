@@ -1,0 +1,11 @@
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Movie.WebAPI.exe
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Movie.WebAPI.dll
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Movie.WebAPI.deps.json
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Movie.WebAPI.runtimeconfig.json
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Movie.WebAPI.pdb
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet\assessment\Movie\Movie.WebAPI\Movie.WebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

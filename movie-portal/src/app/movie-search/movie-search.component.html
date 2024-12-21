@@ -1,0 +1,26 @@
+<div class="movie-search-container">
+    <div class="search-bar">
+      <input type="text" [(ngModel)]="title" placeholder="Search for a movie..." />
+      <button (click)="onSearch()">Search</button>
+    </div>
+  
+    <div *ngIf="loading" class="loading-spinner">
+      <p>Loading...</p>
+    </div>
+  
+    <div *ngIf="movies.length > 0; else noMovies" class="movie-list">
+      <div class="movie-card" *ngFor="let movie of movies">
+        <img [src]="movie.posterImage" alt="{{ movie.title }}" class="movie-poster" />
+        <div class="movie-details">
+          <h3 class="movie-title">{{ movie.title }}</h3>
+          <p class="movie-year">{{ movie.releasedYear }}</p>
+        </div>
+      </div>
+    </div>
+
+  
+    <ng-template #noMovies>
+      <p>No movies found. Please try a different search.</p>
+    </ng-template>
+  </div>
+  
